@@ -1,0 +1,68 @@
+{
+  "category": "message-queues",
+  "created_date": "2025-09-15T22:48:58.853049",
+  "default_ports": [
+    10,
+    80,
+    443,
+    4369,
+    5672,
+    5673,
+    10000,
+    15672,
+    15673,
+    25672,
+    35672
+  ],
+  "dependencies": [],
+  "description": "RabbitMQ is a free and open-source message-queueing software and broker written in Erlang. Originally developed by Rabbit Technologies and now owned by VMware, RabbitMQ implements the Advanced Message Queuing Protocol (AMQP) and provides message routing, queuing, and delivery guarantees. It serves as a FOSS alternative to commercial message brokers like IBM MQ, Oracle WebLogic Server, or Microsoft Azure Service Bus, offering enterprise-grade reliability, clustering, and high availability without licensing costs, with features like message persistence, flexible routing, and cross-language support.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/message-queues/rabbitmq",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/message-queues/rabbitmq",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.853067",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "rabbitmq",
+  "repository_url": "https://github.com/howtomgr/rabbitmq",
+  "spec_version": "2.0",
+  "subcategory": "message-queues",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "message-queues",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "RabbitMQ Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/message-queues/rabbitmq"
+}
